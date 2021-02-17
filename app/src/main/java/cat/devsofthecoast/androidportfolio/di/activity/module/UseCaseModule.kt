@@ -1,4 +1,4 @@
-package cat.devsofthecoast.androidportfolio.di.modules
+package cat.devsofthecoast.androidportfolio.di.activity.module
 
 import cat.devsofthecoast.androidportfolio.testabledata.FlowersJarden
 import cat.devsofthecoast.androidportfolio.testabledata.FlowersJardenImpl
